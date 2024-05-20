@@ -13,11 +13,11 @@ const aboutMe = () => {
         intelligence and the use of machine learning algorithms as an approach
         to solving problems that revolve around big data.<br></br>
         <br></br> My expertise spans various programming languages, including
-        Python, R, and SQL. I'm truly grateful for the educational opportunities
-        I've had, as they've not only refined my technical skills but also
-        instilled in me a commitment to apply these skills ethically for the
-        betterment of society.<br></br>
-        <br></br> I'm excited to connect, collaborate, and explore how data
+        Python, R, and SQL. I&apos;m truly grateful for the educational
+        opportunities I&apos;ve had, as they&apos;ve not only refined my
+        technical skills but also instilled in me a commitment to apply these
+        skills ethically for the betterment of society.<br></br>
+        <br></br> I&apos;m excited to connect, collaborate, and explore how data
         driven insights can drive positive change and innovation.
       </p>
     </div>
